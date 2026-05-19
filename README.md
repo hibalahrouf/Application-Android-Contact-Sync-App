@@ -233,7 +233,9 @@ Résultat : seuls les contacts correspondants sont affichés.
 
 # Démonstration vidéo
 
+https://github.com/user-attachments/assets/727da2fb-9bd5-4d91-a173-6028bd350458
 
+https://github.com/user-attachments/assets/a612cde4-87a9-4865-8b33-a5ff366dbeed
 
 ---
 
